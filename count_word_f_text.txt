@@ -1,0 +1,20 @@
+The Voynich manuscript has remained so far as a mystery for linguists and cryptologists.
+While the text written on medieval parchment using an unknown script system shows basic statistical patterns that bear resemblance to those from real languages.
+There are features that suggested to some researches that the manuscript was a forgery intended as a hoax. 
+Here we analyse the long-range structure of the manuscript using methods from information theory. 
+We show that the Voynich manuscript presents a complex organization in the distribution of words that is compatible with those found in real language sequences. 
+We are also able to extract some of the most significant semantic word-networks in the text. 
+These results together with some previously known statistical features of the Voynich manuscript, give support to the presence of a genuine message inside the book.
+
+
+
+Summary of the article
+The paper titled “Keywords and Co‑Occurrence Patterns in the Voynich Manuscript: 
+An Information‑Theoretic Analysis” is authored by Marcelo A. Montemurro and Damia n H. Zanette, who are affiliated with the University of Manchester and the 
+Consejo Nacional de Investigaciones Científicas y Técnicas in Argentina ().  
+Using methods from information theory, the authors examine the long‑range statistical structure of the Voynich Manuscript—a medieval 
+document written in an unknown script that has long puzzled linguists and cryptologists. 
+Their analysis reveals that the manuscript exhibits a complex organization in word distribution that closely matches patterns found in genuine natural languages. 
+Additionally, they identify significant semantic word‑networks within the text, suggesting meaningful relationships among words.  
+These findings, together with previously reported statistical characteristics of the manuscript, support the hypothesis that the Voynich Manuscript 
+contains a genuine, non‑random message rather than being a simple hoax ().
